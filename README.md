@@ -2,10 +2,10 @@
 
 This Dapp is specially created for attendance purpose which can be used by teachers in school or colleges.
 It is devloped using:
-  Truffle suit(Local Blockchain)
-  React JS(UI)
-  Metamask wallet(for signing the transaction)
-  Web3.JS(To interact with local ethereum node using HTTP, IPC or Websocket)
+  Truffle suit(Local Blockchain),
+  React JS(UI),
+  Metamask wallet(for signing the transaction),
+  Web3.JS(To interact with local ethereum node using HTTP, IPC or Websocket),
 
 Following are the function which teacher can perform using his Dapp:
 1. Create a student.
